@@ -443,9 +443,5 @@ contact.html
 
 ![Screenshot 2024-05-15 012411](https://github.com/RITHISHlearn/Pharma/assets/145446645/ab4d4c93-6d09-4483-a2bd-63d728c13da0)
 
-![Screenshot 2024-05-15 012428](https://github.com/RITHISHlearn/Pharma/assets/145446645/40754551-e41a-46c1-985f-327ade02109f)
-
-![Screenshot 2024-05-15 012444](https://github.com/RITHISHlearn/Pharma/assets/145446645/fdb4a681-a642-442f-9dd5-532ea3e658c5)
-
 ## RESULT:
 The program for responsive web design using Bootstrap is completed successfully.
